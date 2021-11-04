@@ -197,7 +197,11 @@ namespace SIC_Simulator
             else
             {
                 // Show in Binary
-
+                // ===== GROUP: CODE GOES HERE =====
+                // ===== GROUP: CODE GOES HERE =====
+                // ===== GROUP: CODE GOES HERE =====
+                // TODO: Show the memory but in binary
+                // TODO: I guess that also means an ASCII table?
             }
 
         }
